@@ -2,346 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="445588f7-8e66-4611-bafa-dcf22c02f132" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/.idea/WZY35DR.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/.idea/dataSources/1825e55a-c07e-409c-a569-449fd868f825/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/.idea/dataSources/631ec1ed-d48d-4e84-a677-a46e8a8b979d.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/.idea/dataSources/631ec1ed-d48d-4e84-a677-a46e8a8b979d/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/App/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/App/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/App/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/App/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/App/migrations/0002_auto_20181106_0932.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/App/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/App/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/App/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/App/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/App/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/WZY35DR/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/WZY35DR/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/WZY35DR/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/WZY35DR/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/splite" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/css/goodlist.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/css/goodsinfo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/css/login.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/css/register.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/css/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/css/shopcar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/css/style1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/1474875710.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/1474875797.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/2014082814202901a716bf7e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201408281420302f3c12ebd5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/2014082814203071a0d2f4c6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201409011559313d34c1c807.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20140902094335966c32bf74.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201409031259093e45b5ecf0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/2014090312590972b221c6ce.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20140903125910f4a940ed90.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20140926105350c9c16868be.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/2014092610543039082c76fd.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20141208151441cc5ac80d54.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20141211170306c60c5d8029.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20150129114316f8a2465758.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/2015012912125452b30a7236.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20150129121254e8cdb1d2f7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201502061050359c37df606b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20150714152021089c7e0a27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/2015081318151576e08c7f5c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20150928184958b148a531bc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20150928185451092acd12d8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/2015092819013563a1e7c5d7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20150930142250b083bc9f9f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201509301425347b86245a0e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20150930142538cbe03e4608.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20150930142541594d0d7e3e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20150930190558ba3bac51e0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/2015093019140361614ead1d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20150930191406bc384fe971.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/2015093019140702298d7dbb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20150930191409893f12c808.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20151009171038c099446b09 (1).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20151009171038c099446b09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201510211002457eb68c35c3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/2016-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/2016-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/2016-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/2016-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/2016-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201601231615193fbf3ca618.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20160315163352419be5697c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201603151634299c0c326cab.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20160315163555a3b5127646.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201603301518557a6da101e1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20160330151910e264570ec2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201603301519256b9cccee8f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201605120948477f3b77aceb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/2016051209485721e5c3298a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201605120949135df716e519.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20160512094941cf1ef5093c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201605120949525d78060c25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20160512095001919b72a4d1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20160512095039a409d80aac.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20160512095047199bfd25e1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20160512095109a18882e57d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20160512095117bbc8c337e8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/2016051209512422c8708f84.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/2016051209514975606370b9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201605120951586404e36dd9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201605120952105afa109cae.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20160512095220956ee71323.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201605120952284ff4210942.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201605120952411b98144db4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20160512095257112c7093f6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201605120953093a1e532a95.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/2016051209532043fae2bfab.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20160512095843e410458e7d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201605120958480a5eaf9319.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20160512095855640aba3b23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201605241429181230fbb4e0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201605241430124b8d8f7d11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/2016052414305878c82bc1be.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/2016060811463267ab8fc9ed.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/2016060812454522d7889f26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201606081245596f6d33321d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20160614145147c1de1b568e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20160620101350d2f9fcb5a8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20160627123305305802dde0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20160728121840df1dceaa07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20160728121853501133b1c9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/2016081011165194412bb2d4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20160819143418d45968d484.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20160823113711835d67b5f6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20160825163827930454352b (1).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20160825163827930454352b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201608311843081518eaf9ad (1).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201608311843081518eaf9ad.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201608311855480a2e0c2951.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201609061049005f2727dc35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201609281803202339dedb30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201609281803296c71b4bfd6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/20160928180337d87ca7cc07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/2016092818034975f9aa98cb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201609281803564c831acceb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/201609281804056706a5a051.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/477065b454fe49369e925ebe7cea84d6.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/a_hover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/all-right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/all-right_w.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/all-right_y.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/app_ewm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/bc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/bd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/bigClose.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/bk_all.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/bk_border.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/black_icon (1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/black_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/bottom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/br_right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/bread_right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/bt-repeat.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/buy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/c1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/c2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/c3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/checkdt.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/chongq.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/close.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/close_hover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/close_sgjn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/coin_left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/com.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/countdownbg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/counter (1).gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/counter.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/cxit.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/cxit_click.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/db.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/dr.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/dr_star_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/drimg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/drlogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/drsq2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/drstorebg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/drword.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/drz.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/dzzx.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/dzzx_hover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/erwei.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/ew.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/ew_sx.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/ewm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/fd.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/fd_hover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/fhdb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/fhdb_hover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/foot-servise.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/foot-servise_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/footer_rp.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/footer_top.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/gdbk.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/getCodeBtn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/hkshop.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/hover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/ico-bannerbtn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/ico-error.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/ico-otherLogin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/ico-pagin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/ico-sata.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/ico-shares.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/ico-shopmapjt.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/ico-uinput.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/icon-right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/icon_footer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/icon_lt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/icon_ring.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/icon_servie.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/icon_star.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/icon_store.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/icon_yleft.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/icon_yright.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/invitebg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/invitehead.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/ipbt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/jiathis_ico.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/kfhelp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/kfu.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/kfu_hover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/kzyl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/leftbig.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/leftorr.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/line.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/line.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/line1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/login.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/login2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/love-it.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/lright.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/mask.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/mb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/mobile_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/nav_rp.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/nav_rp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/nav_rp1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/navleft1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/navright1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/new.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/new.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/next.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/nexthover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/ok_right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/onelife.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/otherLoginHr.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/other_border.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/phone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/pinktkbg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/pre.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/prehover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/propose_leftbg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/qq.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/quanguo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/ques.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/right-hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/right_d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/right_line.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/rightbig.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/ring5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/ring_bottom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/sbg1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/serv.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/server1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/server2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/server3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/server4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/server5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/server6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/sgjn_tc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/share.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/shkf.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/shoop_nav.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/shopicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/shopmap.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/show_rp.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/sm_boreder.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/sm_repeat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/small_right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/small_tb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/sqkef.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/subnav_line.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/sx.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/sx_hover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/sxkf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/sxkf_hover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/sxzx.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/sxzx_hover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/tc_border.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/tc_close.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/tc_close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/tel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/telleft.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/thing_left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/thing_right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/topnav.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/toporb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/totop.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/ttcloese.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/twolife.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/wb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/word_left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/word_right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/wr_left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/wrong.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/xianggang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/ylxg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/yz_ts.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/yzts_word.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/yzts_wrong.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/zfgn.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/zhdarryjewelryf15002_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/zhdarryjewelryf15008_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/images/zxkf.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/js/banner.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/js/base1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/js/big52gb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/js/goodinfo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/js/goodlist.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/js/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/js/jquery-1.12.0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/js/jquery.cookie.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/js/login.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/js/mask.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/js/register.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/js/shopcar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/js/startMove.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/js/test1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/json/city.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/json/goodlist.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/json/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/static/json/lunbo.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/templates/goodinfo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/templates/goodlist.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/templates/goodsinfo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/templates/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/templates/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WZY35DR/templates/shopcar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/templates/register.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -379,64 +41,24 @@
     </expand>
     <select />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1698089605">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="html" value="273" />
-          <entry key="js" value="220" />
-          <entry key="py" value="11" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="273" />
-          <entry key="JavaScript" value="220" />
-          <entry key="Python" value="11" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="html" value="3" />
-          <entry key="js" value="5" />
-          <entry key="py" value="4" />
-          <entry key="user" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Database Element" value="1" />
-          <entry key="HTML" value="3" />
-          <entry key="JavaScript" value="5" />
-          <entry key="Python" value="4" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.55697745">
+    <splitter split-orientation="horizontal" split-proportion="0.5450269">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/App/templates/register.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="242">
+                <state relative-caret-position="1674">
                   <caret line="62" column="52" selection-start-line="62" selection-start-column="52" selection-end-line="62" selection-end-column="52" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/App/templates/login.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="330">
-                  <caret line="51" column="26" lean-forward="true" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+                <state relative-caret-position="309">
+                  <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
                 </state>
               </provider>
             </entry>
@@ -444,7 +66,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/App/models.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="264">
+                <state relative-caret-position="324">
                   <caret line="12" selection-start-line="12" selection-end-line="12" />
                 </state>
               </provider>
@@ -453,7 +75,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/App/settings.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="418">
+                <state relative-caret-position="1404">
                   <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
                 </state>
               </provider>
@@ -462,7 +84,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/App/ext.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="176">
+                <state relative-caret-position="189">
                   <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
                   <folding>
                     <element signature="e#0#33#0" expanded="true" />
@@ -474,12 +96,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/App/static/js/register.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="286">
-                  <caret line="71" column="32" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+                <state relative-caret-position="475">
+                  <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
                 </state>
               </provider>
             </entry>
@@ -512,23 +134,15 @@
         <option value="$PROJECT_DIR$/App/templates/home.html" />
         <option value="$PROJECT_DIR$/App/views.py" />
         <option value="$PROJECT_DIR$/App/static/js/login.js" />
-        <option value="$PROJECT_DIR$/App/templates/login.html" />
         <option value="$PROJECT_DIR$/App/templates/register.html" />
         <option value="$PROJECT_DIR$/App/static/js/register.js" />
+        <option value="$PROJECT_DIR$/App/templates/login.html" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="38" />
-    <option name="width" value="1687" />
-    <option name="height" value="819" />
+    <option name="width" value="1548" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -536,36 +150,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Wangzy10kaoshi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Wangzy10kaoshi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Wangzy10kaoshi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Wangzy10kaoshi" type="462c0819:PsiDirectoryNode" />
-              <item name="App" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Wangzy10kaoshi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Wangzy10kaoshi" type="462c0819:PsiDirectoryNode" />
-              <item name="App" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Wangzy10kaoshi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Wangzy10kaoshi" type="462c0819:PsiDirectoryNode" />
-              <item name="App" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="qqqq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qqqq" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -625,17 +221,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542935215700</updated>
+      <workItem from="1550057288733" duration="145000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="145000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="38" width="1687" height="819" extended-state="0" />
+    <frame x="0" y="0" width="1548" height="876" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.19012797" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18951613" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Console" weight="0.34153402" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -644,11 +243,12 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.26483357" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.243607" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="11" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.34153402" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -658,9 +258,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/App/static/css/home.css">
@@ -696,30 +293,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App/ext.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/App/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -751,24 +324,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App/templates/login.html">
+    <entry file="file://$PROJECT_DIR$/App/templates/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="51" column="26" lean-forward="true" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+        <state relative-caret-position="1674">
+          <caret line="62" column="52" selection-start-line="62" selection-start-column="52" selection-end-line="62" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App/templates/register.html">
+    <entry file="file://$PROJECT_DIR$/App/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="62" column="52" selection-start-line="62" selection-start-column="52" selection-end-line="62" selection-end-column="52" />
+        <state relative-caret-position="324">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/ext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/App/static/js/register.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="71" column="32" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+        <state relative-caret-position="475">
+          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
         </state>
       </provider>
     </entry>
